@@ -3,6 +3,7 @@ i'm @skrewde. i'm a gamer, programmer, & nerd who's into computers and technolog
 
 ### My roadmap.sh:
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64dfa2e9ced78d2935279535?variant=light)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64dfa2e9ced78d2935279535?variant=light&roadmaps=backend%2Cpython%2Ctypescript)](https://roadmap.sh)
 
 ### Other stuff:
 - i’m currently working on a handful of websites.
