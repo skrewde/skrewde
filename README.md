@@ -5,7 +5,7 @@ i'm @skrewde. i'm a gamer, programmer, & nerd who's into computers and technolog
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64dfa2e9ced78d2935279535?variant=light)](https://roadmap.sh)
 
 ### Other stuff:
-- i’m currently working on a handful of websites.
+- i’m currently working on a handful of small python projects.
 - i’m currently taking Harvard's CS50, backend specialisation comes after.
 - i’m looking to collaborate on interesting ideas or open-source projects.
 - how to reach me: @skrewde on most platforms.
