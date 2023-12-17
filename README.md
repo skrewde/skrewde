@@ -2,7 +2,7 @@
 i'm @skrewde. i'm a gamer, programmer, & nerd trying to figure out how to turn my interest in computer systems and passion for technology into a career.
 
 ### My roadmap.sh:
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64dfa2e9ced78d2935279535?variant=light)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64dfa2e9ced78d2935279535?variant=light&roadmaps=backend%2Cpython)](https://roadmap.sh)
 
 ### Other stuff:
 - i’m currently working on a handful of python projects.
@@ -13,6 +13,7 @@ i'm @skrewde. i'm a gamer, programmer, & nerd trying to figure out how to turn m
 
 
 <!--
+old roadmap.sh md api endpoint: [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64dfa2e9ced78d2935279535?variant=light)](https://roadmap.sh)
 - fun fact: i could
 **skrewde/skrewde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
