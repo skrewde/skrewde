@@ -6,7 +6,7 @@ i'm @skrewde. i'm a gamer, programmer, & nerd trying to figure out how to turn m
 
 ### Other stuff:
 - i’m currently working on a handful of python projects.
-- i’m currently taking Harvard's CS50, backend specialisation comes after.
+- i’m taking Harvard's CS50, backend specialisation comes after.
 - i’m looking to collaborate on interesting ideas or open-source projects.
 - how to reach me: @skrewde on most platforms.
 - pronouns: they/them (preferred)
