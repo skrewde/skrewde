@@ -1,15 +1,15 @@
 ### Yo, wagwan
-i'm @skrewde. i'm a gamer, programmer, & nerd trying to figure out how to turn my interest in computer systems and passion for technology into a career.
+gamer, programmer, & nerd trying to figure out how to turn interest in computer systems into a career.
 
 ### My roadmap.sh:
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64dfa2e9ced78d2935279535?variant=light&roadmaps=backend%2Cpython)](https://roadmap.sh)
 
 ### Other stuff:
-- i’m currently working on a handful of python projects.
-- i’m a cs major @ UoPeople, backend specialisation comes after.
-- i’m looking to collaborate on interesting ideas or open-source projects.
+- currently working on a handful of python projects.
+- cs major @ UoPeople.
+- looking to collaborate on interesting ideas or open-source projects.
 - how to reach me: @skrewde on most platforms.
-- pronouns: they/them (preferred)
+- pronouns: they/them
 
 
 <!--
